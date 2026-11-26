@@ -1,0 +1,6 @@
+{
+  "name": "Naboa Shopping Centre",
+  "description": "Shop directory, artisan product marketplace, and Mbale City delivery hub for Naboa Shopping Centre at the foothills of Mount Elgon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
